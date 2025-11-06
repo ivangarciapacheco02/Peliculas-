@@ -1,0 +1,13 @@
+.poste {
+  width: 200px !important;
+  height: 160px !important;
+
+}
+.slide-mas{
+  height: 250px;
+}
+
+.btn-mas{
+  position:relative;
+  top: 32%;
+}
