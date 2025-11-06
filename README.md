@@ -66,12 +66,10 @@ La aplicación cuenta con varias pantallas que permiten la navegación entre las
 
 
 ![image](https://github.com/user-attachments/assets/f5a8ed0d-56ba-473a-ae94-41c1b75832a7)
-![image](https://github.com/user-attachments/assets/cf1fe92b-e7ab-4a14-84e0-4426d0715ae0)
 
 - **Pantalla de detalles**: Información detallada de cada película.
 
 ![image](https://github.com/user-attachments/assets/57c374a9-fdb3-4d45-9e20-8eabd99af8ba)
-![image](https://github.com/user-attachments/assets/a46c157b-2b44-460a-b2d9-5b0f78f72925)
 
 - **Pantalla de búsqueda**: Buscar y filtrar películas.
 
