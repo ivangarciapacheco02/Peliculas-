@@ -1,10 +1,10 @@
-# 🎬 Aplicación Móvil de Cartelera de Películas
+# Aplicación Móvil de Cartelera de Películas
 
 **Aplicación móvil desarrollada en Ionic** que proporciona una cartelera interactiva de películas. Permite a los usuarios explorar y descubrir películas con detalles visuales y dinámicos como posters, calificaciones, descripciones, categorías y reparto. Está diseñada para ofrecer una experiencia fluida y atractiva tanto en dispositivos móviles como en tabletas.
 
 ---
 
-## 🚀 Descripción General
+## Descripción General
 
 Esta aplicación permite a los usuarios disfrutar de una experiencia de cine personalizada y sencilla a través de las siguientes funcionalidades:
 
@@ -25,7 +25,7 @@ Cada película en la cartelera cuenta con detalles como:
 
 ---
 
-## 🛠️ Tecnologías y Dependencias Utilizadas
+## Tecnologías y Dependencias Utilizadas
 
 - **Lenguajes**: HTML, TypeScript, SCSS
 - **Frameworks**: Ionic 5.4.16, Angular
@@ -37,7 +37,7 @@ Cada película en la cartelera cuenta con detalles como:
 
 ---
 
-## ⚙️ Instalación y Ejecución Local
+##  Instalación y Ejecución Local
 
 Para poder ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
 git clone https://github.com/tu-usuario/tu-repositorio.git
@@ -51,14 +51,6 @@ Nota: No utilices npm install, ya que esto puede actualizar las dependencias a v
 Para iniciar la aplicación en tu navegador, usa el siguiente comando: ionic serve -o  Este comando lanzará el servidor local y abrirá la aplicación en tu navegador.
 
 
-## 🧑‍💻 Desarrolladores
-
-Este proyecto fue desarrollado por:
-
-- **Guadalupe Quetzalli Huitzil Juarez** 
-- **Mario Alberto Galindo Gallegos** 
-- **Dana Vicente de los Santos** 
-
 ## Información adicional
 
 - **Versión de Node.js**: 12.2.18
@@ -66,7 +58,7 @@ Este proyecto fue desarrollado por:
 - **Versión de Angular**: 10.x.x
 - **API**: TMDb para obtener los datos de las películas.
 
-## 🖼️ Pantallas
+## Pantallas
 
 La aplicación cuenta con varias pantallas que permiten la navegación entre las diferentes secciones. Algunas de ellas incluyen:
 
